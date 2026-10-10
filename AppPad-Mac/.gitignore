@@ -1,0 +1,9 @@
+# SwiftPM
+.build/
+.swiftpm/
+
+# App bundle artifacts (build-app.sh)
+dist/
+
+# macOS
+.DS_Store

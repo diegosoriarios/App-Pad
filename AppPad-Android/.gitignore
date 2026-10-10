@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+captures/
+.externalNativeBuild
+.cxx
+
+# Machine-specific
+local.properties
+
+# macOS
+.DS_Store

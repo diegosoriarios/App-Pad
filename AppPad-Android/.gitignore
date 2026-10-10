@@ -13,5 +13,9 @@ captures/
 # Machine-specific
 local.properties
 
+# Signing keys
+*.jks
+*.keystore
+
 # macOS
 .DS_Store
